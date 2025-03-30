@@ -1,0 +1,20 @@
+{
+  "auth": {
+    "login": {
+      "title": "Login",
+      "emailPlaceholder": "Email",
+      "passwordPlaceholder": "Password",
+      "button": "Login",
+      "registerLink": "Don't have an account? Register"
+    },
+    "register": {
+      "title": "Register",
+      "emailPlaceholder": "Email",
+      "passwordPlaceholder": "Password",
+      "confirmPasswordPlaceholder": "Confirm Password",
+      "button": "Register",
+      "loginLink": "Already have an account? Login",
+      "passwordMismatch": "Passwords do not match"
+    }
+  }
+} 
