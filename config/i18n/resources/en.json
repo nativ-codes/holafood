@@ -1,20 +1,44 @@
 {
-  "auth": {
-    "login": {
-      "title": "Login",
-      "emailPlaceholder": "Email",
-      "passwordPlaceholder": "Password",
-      "button": "Login",
-      "registerLink": "Don't have an account? Register"
-    },
-    "register": {
-      "title": "Register",
-      "emailPlaceholder": "Email",
-      "passwordPlaceholder": "Password",
-      "confirmPasswordPlaceholder": "Confirm Password",
-      "button": "Register",
-      "loginLink": "Already have an account? Login",
-      "passwordMismatch": "Passwords do not match"
+    "translation": {
+        "auth": {
+            "login": {
+                "title": "Login",
+                "emailPlaceholder": "Email",
+                "passwordPlaceholder": "Password",
+                "button": "Login",
+                "registerLink": "Don't have an account? Register"
+            },
+            "register": {
+                "title": "Register",
+                "emailPlaceholder": "Email",
+                "passwordPlaceholder": "Password",
+                "confirmPasswordPlaceholder": "Confirm Password",
+                "button": "Register",
+                "loginLink": "Already have an account? Login",
+                "passwordMismatch": "Passwords do not match"
+            }
+        },
+        "screens": {
+            "profile": {
+                "title": "Profile",
+                "editProfile": "Edit Profile",
+                "dietaryPreferences": {
+                    "title": "Dietary Preferences",
+                    "diet": {
+                        "title": "Diet",
+                        "noSpecificDiet": "No specific diet"
+                    },
+                    "allergies": {
+                        "title": "Allergies",
+                        "noAllergies": "No allergies added"
+                    },
+                    "favoriteIngredients": {
+                        "title": "Favorite Ingredients",
+                        "noIngredients": "No favorite ingredients added"
+                    }
+                },
+                "logout": "Log out"
+            }
+        }
     }
-  }
-} 
+}
